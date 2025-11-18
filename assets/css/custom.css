@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 /* MySite Custom Styles */
 body {
     background-color: #f8f9fa;
+=======
+body {
+    background-color: #f9fafb;
+}
+
+.mysite-highlight {
+    color: #1a73e8;
+    font-weight: bold;
+>>>>>>> 03c5066aad637e06acaae8609c8169ce29dc144a
 }
