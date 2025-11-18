@@ -3,10 +3,9 @@
  * Plugin Name: MySite Custom
  * Description: Custom functionality for Ferin’s sandbox site. Adds CSS/JS and integrates Gravity Forms with Webhook.site.
  * Version: 1.0.0
- * Author: Ferin
- */
+ * Author: */
 
-if (!defined('ABSPATH')) exit; // Prevent direct access
+if (!defined('ABSPATH')) exit;
 
 define('MYSITE_CUSTOM_VERSION', '1.0.0');
 
